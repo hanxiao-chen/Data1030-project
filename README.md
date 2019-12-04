@@ -12,8 +12,13 @@ Python version:
 Python 3.7
 
 Pageckage version:
+
 numpy==1.17.1
+
 pandas==0.25.0
+
 scikit-learn==0.21.3
+
 plotly==4.1.1
+
 matplotlib==3.1.1
