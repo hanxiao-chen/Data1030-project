@@ -7,3 +7,13 @@ To effectively lower the risk of CAD, an early diagnosis is of great importance.
 Given that we have enough indicators highly associated with CAD such as a person’s blood pressure, BMI, lifestyle, etc., it is reasonable to hypothesize that we can predict whether a person gets CAD by applying machine learning. Therefore, in this study, I focus on processing Z-Alizadeh Sani Data Set retrieved from UCI Machine Learning Repository to predict the occurrence of CAD.
 
 Inspired by previous scholars, the major objective of this study is to use machine learning algorithms like logistic regression, random forest, and AdaBoost with Z-Alizadeh Sani dataset (http://archive.ics.uci.edu/ml/datasets/Z-Alizadeh+Sani) to predict patients who are most likely to get CAD and compare the CAD prediction accuracy of different classification algorithms.
+
+Python version: 
+Python 3.7
+
+Pageckage version:
+numpy==1.17.1
+pandas==0.25.0
+scikit-learn==0.21.3
+plotly==4.1.1
+matplotlib==3.1.1
